@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Aaa;
+    src: url("../public/fonts/static/Outfit-Medium.ttf");
+}
+
+.crd {
+    overflow: scroll !important; 
+    max-height: 80vh;
+}
